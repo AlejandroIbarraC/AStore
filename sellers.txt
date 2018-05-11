@@ -1,0 +1,11 @@
+#0-sellerid, 1-name, 2-lastname, 3-email, 4-website, 5-amountappsonsale, 6-app1, 7-app2, 8-app3, 9-app4, 10-app5, 11-downloadsUS, 12-downloadsCR
+1, Jeff, Schmidt, jschmidtcr@gmail.com, www.ventas-jeff.com,4, Jeff Schmidt's Python (A), NOTLIM (A), Unbreakable (A),Toblerone (I),, 0, 0
+2, Mariana, Alison, malison@420.com, www.420weed.com,2, Weed Smoke PRO (A), Monument Valley (A),,,, 0, 0
+3, Ed, Sheeran, ted@edsheeran.com, www.edsheeran.com,5, Math with Ed Sheeran (A), Taylor's Swift (A), Kiss me pls (A), Game of Shots (A),Substract (I), 0, 0
+4, Edward, Kenway, kenway@ubisoft.com, www.ubisoft.com,1, The Pirate Bay (A),,,,, 0,0
+5, Tim, Cook, tcook@apple.com, apple.com,2, Apple Music (A), Stocks (A),,,, 0,0
+6, Jeff, Bezos, jbezos@netflix.com,netflix.com,1, Netflix (A),,,,,0,0
+7, Alejandro, Ibarra, alejandroi@hotmail.com,ale.net,3, Intro & Taller (A), Jessie (A), Life is Strange (A),,,0,0
+8, Howard, Schulz, howard@starbucks.com', starbucks.com,1,Starbucks(I),,,,,0,0
+9,Margaery,Tyrell,margaery@got.com,gameofthrones.com,0,,,,,,0,0
+10,John, Williams,johnwilliams@starwars.com,starwars.com,0,,,,,,0,0

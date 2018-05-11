@@ -1,0 +1,8 @@
+#0-email/user, 1-name, 2-password, 3-lastname, 4-userid, 5-country, 6-boughtapps
+jschmidt@tec.ac.cr,Jeff,jeff,Schmidt,1,US,0
+jess@jessica.com,Jessica,jessica,Espinoza,2,US,0
+yolanda@jessica.com,Yolanda,yolanda,Espinoza,3,US,0
+ibarraalejandro@jessica.com,Alejandro,youtuberocks,Ibarra,4,US,0
+alexrojas@rojas.com,Alexander,alex,Rojas,5,CR,0
+fabrialvarado,Fabricio,costaricaesgrande,Alvarado,6,CR,0
+charliealvarado@presidencia.go.cr,Carlos,esporvosesporcostarica,Alvarado,7,US,0
