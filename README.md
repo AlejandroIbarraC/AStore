@@ -45,7 +45,7 @@ Sellers                    |                          |
 
 ## Prerequisites
 
-Default Python. Originally made in version 3.6.4 but tested in May 2019 for version 3.7.3 and everything worked fine.
+Default Python. Originally made in version 3.6.4 with macOS High Sierra 10.13.4 but tested in May 2019 for version 3.7.3 with macOS Mojave 10.14.6 and everything worked fine.
 
 ## Authors
 
