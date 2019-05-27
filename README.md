@@ -8,7 +8,7 @@ CE-1102. First programming project. #Jeff
   The objective was to create an app store mockup. 
   It wasn't supposed to actually work with servers and stuff, so the most important aspect of it was how it looked. 
   Luckily, I knew a thing or two about Photoshop, so I probably spent about 90% of the time editing pictures and perfecting the details, and the rest in an battle of epic proportions against the Python compiler.
-  For some reason, my teacher wanted it to be under 10MB, so every bit of space mattered.
+  For some reason, my teacher wanted it to be under 2MB, so every bit of space mattered. And I couldn't use classes or iteration, so everything had to be done with recursion in one file. That's why it looks so weird in code.
   
   The project has a main client app, along with an admin console to manage the store's sellers and data. 
   It also featured a register/login system, and dual language support. (English & Spanish) There were probably other smaller things, but I forgot. It's been a while, okay...
@@ -53,7 +53,7 @@ Default Python. Originally made in version 3.6.4 with macOS High Sierra 10.13.4 
 
 ## Acknowledgments
 
-* **Mr.Jeff Schmidt** - *Teacher* 
+* **Mr. Jeff Schmidt** - *Teacher* 
 
 ## License
 
