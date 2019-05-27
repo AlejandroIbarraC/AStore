@@ -54,3 +54,7 @@ Default Python. Originally made in version 3.6.4 with macOS High Sierra 10.13.4 
 ## Acknowledgments
 
 * **Mr.Jeff Schmidt** - *Teacher* 
+
+## License
+
+This project is licensed under the GNU License - see the [LICENSE.md](LICENSE.md) file for details
