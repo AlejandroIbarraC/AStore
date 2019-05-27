@@ -49,8 +49,8 @@ Default Python. Originally made in version 3.6.4 but tested in May 2019 for vers
 
 ## Authors
 
-* **Alejandro Ibarra** - *Developer* [AlejandroIbarraC](https://github.com/AlejandroIbarraC)
+* **Alejandro Ibarra** - *Developer* - [AlejandroIbarraC](https://github.com/AlejandroIbarraC)
 
 ## Acknowledgments
 
-* Mr.Jeff Schmidt - *Teacher* 
+* **Mr.Jeff Schmidt** - *Teacher* 
